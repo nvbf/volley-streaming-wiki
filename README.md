@@ -1,1 +1,2 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+Lurer du på hvordan du kommer i gang med å streame volleyballkamper i din klubb? Dette er en side hvor vi prøver å samle informasjon om hvordan man kommer i gang.
+
