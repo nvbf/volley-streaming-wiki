@@ -11,3 +11,4 @@
 * [Hvordan legger man inn webkamera i OBS?](obs/webkamera-i-obs.md)
 * [Hvordan kobler jeg OBS til YouTube?](obs/koble-obs-til-youtube.md)
 * [Hvordan kobler man OBS til Facebook Live?](obs/koble-obs-til-facebook.md)
+* [Hva er de anbefalte innstillingene i OBS?](obs/obs-output-innstillinger.md)

@@ -22,9 +22,4 @@ Selv om maskinvaren man bruker til streaming fort kan koste noen tusenlapper, s�
 
 Du vil også trenge programvare for å sende video til YouTube eller Facebook. Vi anbefaler [OBS](https://obsproject.com/) \(Open Broadcaster Software\). Det er helt gratis, og er enkelt i bruk.
 
-Hvis du ikke har brukt OBS før, kan det noe av dette være nyttig lesning:
-
-* [Hvordan laster man ned OBS?](obs/hvordan-laster-man-ned-obs.md)
-* [Hvordan legger man inn webkamera i OBS?](obs/webkamera-i-obs.md)
-
 På volleystream.no vil det også kunne ligge nettløsninger som du kan legge på toppen av streamen din. Dette lar deg vise poengscore, lagoppstillinger og lignende. Disse løsningene er noe vi jobber med.
