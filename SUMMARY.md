@@ -15,3 +15,4 @@
 
 ## Stream Overlay
 * [Hva er en stream overlay?](overlay/hva-er-en-stream-overlay.md)
+* [Hvordan bruker jeg scoreboard overlayet?](overlay/hvordan-bruke-scoreboard.md)
