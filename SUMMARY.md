@@ -3,7 +3,7 @@
 ## Grunnleggende
 
 * [Introduction](README.md)
-* [Hva trenger jeg for å streame?](hva-trenger-jeg-for-a-streame.md)
+* [Hva trenger jeg for å streame?](general/hva-trenger-jeg-for-a-streame.md)
 
 ## OBS
 
