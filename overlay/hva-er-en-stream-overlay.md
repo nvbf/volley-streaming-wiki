@@ -18,9 +18,9 @@ I OBS kan du legge inn bilder og tekst, som du kan legge oppå streamen.
 
 For å vise stillinga kan man for eksempel la OBS lese fra gitte tekstfiler på maskinen din, og endre disse tekstfilene underveis i kampen.
 
-Det er en enkel løsning, men blir fort vanskelig å bruke om du skal gjøre noe mer enn å oppdatere stillinga i kampen.
+Det er en enkel løsning, men blir fort vanskelig å bruke om du skal gjøre noe mer enn å oppdatere stillinga i kampen. Vi anbefaler heller å bruke nettbasert overlay.
 
-### Nettbasert overlay
+## Nettbasert overlay
 
 At en overlay er nettbasert vil si at det i prinsippet er en nettside som vi legger over streamen.
 
