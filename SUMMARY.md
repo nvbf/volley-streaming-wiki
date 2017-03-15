@@ -1,7 +1,12 @@
 # Summary
 
+## Grunnleggende
+
 * [Introduction](README.md)
-  * [Hva trenger jeg for å streame?](hva-trenger-jeg-for-a-streame.md)
+* [Hva trenger jeg for å streame?](hva-trenger-jeg-for-a-streame.md)
+
+## OBS
+
 * [OBS](obs/README.md)
   * [Hvordan laster man ned OBS?](obs/hvordan-laster-man-ned-obs.md)
   * [Hvordan legger man inn webkamera i OBS?](obs/webkamera-i-obs.md)
