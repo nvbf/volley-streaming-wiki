@@ -13,7 +13,7 @@ Vi har laget en overlay til OBS som lar deg vise hvilke lag som spiller, og stil
 ![Scoreboard match id](./images/overlay-score-match-id.png)
 
 * Du får nå opp en link. Dette er linken du skal legge inn i OBS.
-  * Hvis du lurer på hvordan legger inn linken i OBS: [Hvordan legger man inn overlay i OBS?](obs/legge-inn-overlay-i-obs.md)
+  * Hvis du lurer på hvordan legger inn linken i OBS: [Hvordan legger man inn overlay i OBS?](obs/legge-inn-overlay-i-obs)
 
 ### Velg lag og gi poeng
 
