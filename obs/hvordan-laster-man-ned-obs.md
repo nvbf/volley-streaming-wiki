@@ -5,11 +5,11 @@ related:
     - obs/koble-obs-til-facebook.md
 ---
 
-OBS kan lastes ned gratis på [obsproject.com](https://obsproject.com).
+OBS Studio kan lastes ned gratis på [obsproject.com](https://obsproject.com).
 
 ![OBS Homepage](./images/obs-homepage.png)
 
-Klikk på den grønne knappen "Download OBS Studo", og så får du følgende tre knapper:
+Klikk på den grønne knappen "Download OBS Studio", og så får du følgende tre knapper:
 
 ![OBS download buttons](./images/obs-download-buttons.png)
 
