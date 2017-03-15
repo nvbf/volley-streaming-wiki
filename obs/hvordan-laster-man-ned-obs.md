@@ -22,8 +22,9 @@ Når det er ferdig, så åpner du OBS. Det skal se omtrent slik ut:
 ![OBS Program](./images/obs-program.png)
 
 ## Linux
-Bruker du linux, må du etter du ha installert OBS også installere en [browsersource plugin](https://github.com/bazukas/obs-qtwebkit)
 
-I tilegg finnes det kun støtte for 1 spesefikk konverter til  elgato. See [github for mer info](https://github.com/tolga9009/elgato-gchd)
+Bruker du linux, må du etter du ha installert OBS også installere en [BrowserSource plugin](https://github.com/bazukas/obs-qtwebkit).
 
-Vi anbefaler derfor window eller mac.
+I tilegg finnes det kun støtte for èn spesifikk konverter til  elgato. Se [Github for mer info](https://github.com/tolga9009/elgato-gchd).
+
+Vi anbefaler derfor Windows eller macOS.
