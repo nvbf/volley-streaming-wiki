@@ -7,6 +7,8 @@ Vi anbefaler at man streamer i 720p (1280x720) i 30fps (frames per second). Det 
 
 ## Output
 
+![OBS Output Settings](./images/obs-output-settings.png)
+
 Beskrivelse    | Verdi
 -------------  | ---
 Output Mode    | Simple
@@ -16,6 +18,8 @@ Audio Bitrate  | 160
 Encoder Preset | veryfast
 
 ## Video
+
+![OBS Video Settings](./images/obs-video-settings.png)
 
 Beskrivelse        | Verdi
 ------------------ | ---
