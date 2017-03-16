@@ -4,7 +4,6 @@
 
 * [Introduction](README.md)
 * [Hva trenger jeg for å streame?](general/hva-trenger-jeg-for-a-streame.md)
-* [Om Oss](om-oss.md)
 
 ## OBS
 
@@ -19,4 +18,13 @@
 
 * [Hva er en stream overlay?](overlay/hva-er-en-stream-overlay.md)
 * [Hvordan bruker jeg scoreboard overlayet?](overlay/hvordan-bruke-scoreboard.md)
+
+
+
+## Annet
+
+* Hvem er vi
+* [Hvordan kan jeg hjelpe](/om-oss.md)
+
+
 
