@@ -13,8 +13,8 @@
 * [Hvordan kobler man OBS til Facebook Live?](obs/koble-obs-til-facebook.md)
 * [Hva er de anbefalte innstillingene i OBS?](obs/obs-output-innstillinger.md)
 * [Hvordan legger man inn nettbasert overlay i OBS?](obs/legge-inn-overlay-i-obs.md)
-* [Hvordan streame via en Android mobiltelefone](/obs/android-i-obs.md)
-* [Hvordan streame via en iPhone ](/obs/iphone-i-obs.md)
+* [Hvordan streame via en Android mobiltelefon?](obs/android-i-obs.md)
+* [Hvordan streame via en iPhone?](obs/iphone-i-obs.md)
 
 ## Stream Overlay
 
@@ -23,10 +23,6 @@
 
 ## Annet
 
-* [Hvem er volleystream for?](/Annet/hvem-er-volleystream-for.md)
-* [Hvordan kan jeg hjelpe](https://www.gitbook.com/book/tutturen/streaming-av-volleyball/edit#)
-
-* [Hvem er vi](#annet)
-
-
-
+* [Hvem er volleystream for?](annet/hvem-er-volleystream-for.md)
+* [Hvordan kan jeg hjelpe?](annet/hvordan-kan-jeg-hjelpe.md)
+* [Hvem er vi?](annet/hvem-er-vi.md)
