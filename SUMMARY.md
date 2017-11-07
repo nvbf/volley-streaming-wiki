@@ -24,6 +24,8 @@
 
 ## Annet
 
+* [Promotere på Youtube](promotere-pa-youtube.md)
 * [Hvem er volleystream for?](annet/hvem-er-volleystream-for.md)
 * [Hvordan kan jeg hjelpe?](annet/hvordan-kan-jeg-hjelpe.md)
 * [Hvem er vi?](annet/hvem-er-vi.md)
+
