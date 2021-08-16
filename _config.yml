@@ -14,7 +14,7 @@
 title: Volley streaming wiki
 description: >- # this means to ignore newlines until "baseurl:"
   Et wiki med informasjon for alle i Norge som ønsker å streame volleyball.
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/volley-streaming-wiki" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: pmarsceill/just-the-docs

@@ -1,6 +1,7 @@
 ---
 title: Hva trenger jeg
 parent: Komme i gang
+nav_order: 1
 ---
 
 ## Fysisk utstyr

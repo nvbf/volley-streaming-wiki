@@ -12,4 +12,4 @@ Vi prøver og lage en guide slik at du får mest ut av det utstyret du har, som 
 
 Så lenge man har et telefon, internettforbindelse og en pc, så har du en start, har du en mikrofon \(og noen til å kommentere\), et videokamera og en konverter mellom kamera og pcen så har du en veldig god forutsetning til å lage en godt produkt som folk vil se på flere ganger.
 
-[Les mer om de forskjellige løsningen]({% link general/hva-trenger-jeg-for-a-streame.md %})
+[Les mer om de forskjellige løsningen]({{site.baseurl}}{% link general/hva-trenger-jeg-for-a-streame.md %})

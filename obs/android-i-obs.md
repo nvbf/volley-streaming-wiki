@@ -70,7 +70,7 @@ PS3: Husk at du må ha trykket ``start server` og denne må gå for at du skal f
 
 Forhåpentligvis fikk ikke du noen av problemene nevnt over og du ser nå en stream fra mobilen din i OBS.
 
-Det er nok da tid for å [legge inn et overlay i obs]({% link overlay/hva-er-en-stream-overlay.md %})
+Det er nok da tid for å [legge inn et overlay i obs]({{site.baseurl}}{% link overlay/hva-er-en-stream-overlay.md %})
 
 ## Flere problemer?
 
