@@ -1,1 +1,0 @@
-Open Broadcaster Software

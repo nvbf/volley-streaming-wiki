@@ -1,7 +1,6 @@
 ---
-related:
-    - obs/hvordan-laster-man-ned-obs.md
-    - obs/webkamera-i-obs.md
+title: Hva trenger jeg
+parent: Komme i gang
 ---
 
 ## Fysisk utstyr

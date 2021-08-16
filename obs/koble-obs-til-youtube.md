@@ -1,3 +1,8 @@
+---
+title: Koble til YouTube
+parent: Open Brodcast Software
+---
+
 Her kommer en beskrivelse på hvordan man kobler OBS til YouTube.
 
 Det første du må gjøre er å lage en begivenhet på YouTube. Logg inn på YouTube-kontoen din, og gå til [https://www.youtube.com/my_live_events](https://www.youtube.com/my_live_events).

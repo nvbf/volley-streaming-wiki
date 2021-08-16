@@ -1,3 +1,8 @@
+---
+title: Koble til Facebook Live
+parent: Open Brodcast Software
+---
+
 Her kommer en beskrivelse på hvordan man kobler OBS til Facebook Live.
 
 Vi jobber med en guide på norsk, men i mellomtiden bruk denne guiden:

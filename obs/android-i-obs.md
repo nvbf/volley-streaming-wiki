@@ -1,6 +1,6 @@
 ---
-related:
-  - obs/iphone-i-obs.md
+title: Streame fra Android
+parent: Open Brodcast Software
 ---
 
 # Streame fra Androiden telefonen over trådløst nett
@@ -70,9 +70,11 @@ PS3: Husk at du må ha trykket ``start server` og denne må gå for at du skal f
 
 Forhåpentligvis fikk ikke du noen av problemene nevnt over og du ser nå en stream fra mobilen din i OBS.
 
-Det er nok da tid for å [legge inn et overlay i obs](/overlay/hva-er-en-stream-overlay.md)
+Det er nok da tid for å [legge inn et overlay i obs]({% link overlay/hva-er-en-stream-overlay.md %})
 
-## Mer Problemer?
+## Flere problemer?
 
-Denne guiden er fornorsket og vi har prøvd og gjøre den litt bedre enn den orginale tråden vi tok utgangspunkt i, men sjekk ut den orginale tråden - [https://obsproject.com/forum/threads/android-smartphone-as-a-webcam-tutorial.6957/](https://obsproject.com/forum/threads/android-smartphone-as-a-webcam-tutorial.6957/) kanskje den kan hjelpe deg på vei. eller send mail til post@volleystream.no så skal vi se om vi klarer å hjelpe deg.
+Denne guiden er fornorsket og vi har prøvd og gjøre den litt bedre enn den orginale tråden vi tok utgangspunkt i,
+men sjekk ut den orginale tråden - <https://obsproject.com/forum/threads/android-smartphone-as-a-webcam-tutorial.6957/>. 
+Kanskje den kan hjelpe deg på vei? Eller send mail til FIXME, så skal vi se om vi klarer å hjelpe deg.
 

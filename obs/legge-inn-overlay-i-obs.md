@@ -1,3 +1,7 @@
+---
+title: Legge inn overlay
+parent: Open Brodcast Software
+---
 
 Si at du har fått en nettadresse som du vil legge inn som overlay i OBS.
 
