@@ -41,17 +41,17 @@ Denne IP addressen skal du nå legge inn i OBS.
 
 Hvis ikke OBS er åpnet, så gjør du det nå.
 
-![](/assets/sources-obs.png)
+![](./images/sources-obs.png)
 
 Velg så `+` under sources.
 
-![](/assets/media-source.png)
+![](./images/media-source.png)
 
 \(din dropdown meny vil ha litt andre valg\)
 
 Og velg Media Sources, og gi den et fornufig navn. F.eks `Samsung Galaxy` eller  `Telefonen min`
 
-![](/assets/medie-source-url-from-phone.png)
+![](./images/medie-source-url-from-phone.png)
 
 Du vil da få opp vinduet vist over, legg nå på urlen som vi fant på mobilen i input feltet.
 
