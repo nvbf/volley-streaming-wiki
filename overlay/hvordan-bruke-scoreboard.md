@@ -7,7 +7,7 @@ Vi har laget en overlay til OBS som lar deg vise hvilke lag som spiller, og stil
 
 ### Lag et nytt scoreboard
 
-* Gå inn på [volleystream.no](http://volleystream.no).
+* Gå inn på <https://www.volleytv.no/score-board/> (midlertidig adresse).
 
 ![Scoreboard intro](./images/overlay-score-intro.png)
 
