@@ -1,3 +1,8 @@
+---
+title: Innstillinger
+parent: Open Brodcast Software
+---
+
 
 Å konfigurere OBS er ikke så lett. Det er et hav av innstillinger. Her prøver vi å gi en anbefaling på hvilke innstillinger som gir stream med bra oppløsning, og uten hakking.
 

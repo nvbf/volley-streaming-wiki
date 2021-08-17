@@ -1,8 +1,6 @@
 ---
-related:
-    - obs/webkamera-i-obs.md
-    - obs/koble-obs-til-youtube.md
-    - obs/koble-obs-til-facebook.md
+title: OBS Studio
+parent: Open Brodcast Software
 ---
 
 OBS Studio kan lastes ned gratis på [obsproject.com](https://obsproject.com).

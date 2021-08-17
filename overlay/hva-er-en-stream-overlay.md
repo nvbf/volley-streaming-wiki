@@ -1,3 +1,9 @@
+---
+title: Hva er det?
+parent: Stream overlay
+---
+
+# Hva er en stream overlay?
 
 En stream overlay er noe du legger over videoen på streamen, for å gi ekstra informasjon til seerne.
 

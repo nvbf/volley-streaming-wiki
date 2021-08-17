@@ -1,12 +1,8 @@
 ---
-related:
-    - obs/hvordan-laster-man-ned-obs.md
-    - obs/webkamera-i-obs.md
-    - obs/koble-obs-til-youtube.md
-    - obs/legge-inn-overlay-i-obs.md
+parent: Open Brodcast Software
 ---
 
-# Hva er OBS ?
+# Hva er OBS?
 
 Open Brodcast Software (OBS) er et gratisprogram får å kunne streame videoer og lage TV produksjoner.
 
@@ -21,6 +17,7 @@ Du kan dele kilder mellom scener, slik at du f.eks har samme mikrofon om du ser 
 Du kan se sende dette live til facebook, youtube, eller andre steder. 
 
 ## Eksempel setup
+
 Du har 3 kamera, 2 stk på banen og 1 i en intervjusone.
 
 Da kan man koble headsettmikrofonen og poengstilling til å vises på banekameraene, mens du har bare en 

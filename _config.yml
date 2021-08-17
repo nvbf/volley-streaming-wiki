@@ -1,0 +1,35 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# Site settings
+# -------------
+
+title: Volley streaming wiki
+description: >- # this means to ignore newlines until "baseurl:"
+  Et wiki med informasjon for alle i Norge som ønsker å streame volleyball.
+baseurl: "/volley-streaming-wiki" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+remote_theme: pmarsceill/just-the-docs
+
+# Theme settings:
+# ---------------
+
+color_scheme: dark
+
+aux_links:
+  "NVBF programvare":
+    - "https://programvare.volleyball.no"
+
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Forbedre denne siden vha. GitHub"
+gh_edit_repository: "https://github.com/nvbf/volley-streaming-wiki" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately

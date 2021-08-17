@@ -1,3 +1,7 @@
+---
+title: Hvordan bruke?
+parent: Stream overlay
+---
 
 Vi har laget en overlay til OBS som lar deg vise hvilke lag som spiller, og stillinga. Her viser vi hvordan du setter det opp, og hvordan du bruker kontrollpanelet.
 

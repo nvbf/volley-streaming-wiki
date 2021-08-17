@@ -6,11 +6,18 @@
 ## Commenting this out is preferred by some people, see
 ## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
 node_modules
+vendor
 
-# Book build output
+# Gitbook build output
 _book
 
 # eBook build output
 *.epub
 *.mobi
 *.pdf
+
+# Jekyll build output
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
