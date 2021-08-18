@@ -1,6 +1,9 @@
-# Volley Streaming Wiki
+# nvbf / volley-streaming-wiki
 
-**Lurer du på hvordan du kommer i gang med å streame volleyballkamper i din klubb?**
+En wiki for streaming av volleyball (på norsk).
 
-- Dette er en side hvor vi prøver å samle informasjon om hvordan man kommer i gang.
-- Litt om hvordan man kommer i gang, og hvilket utstyr og programvare man kan bruke.
+Wiki-en bruker Jekyll (vha Github Pages) med dokumentasjonsmalen
+[Just the Docs](https://github.com/pmarsceill/just-the-docs).
+
+Hvis du har forslag til forbedringer - skrivefeil, utvidelse av eksisterende
+sider eller nye sider - sende inn en sak eller PR på dette repoet.
