@@ -18,7 +18,7 @@ baseurl: /volley-streaming-wiki
 url: https://programvare.volleyball.no
 domain: programvare.volleyball.no
 
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Theme settings:
 # ---------------
